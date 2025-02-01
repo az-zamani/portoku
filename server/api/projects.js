@@ -63,13 +63,13 @@ export default defineEventHandler(() => {
           id_ID: 'Mei 2024',
         },
         title: {
-          en: 'Native',
-          id_ID: 'Native',
+          en: 'Logo Design',
+          id_ID: 'Logo Design',
         },
       },
       content: {
-        en: '.',
-        id_ID: '.',
+        en: 'Submission For UMUKA Anniversary Logo Design Competition.',
+        id_ID: 'Submisi Untuk Lomba Logo Milad UMUKA.',
       },
       desc: {
           en: 'View Project',
@@ -89,13 +89,13 @@ export default defineEventHandler(() => {
           id_ID: 'Mei 2024',
         },
         title: {
-          en: 'Native',
-          id_ID: 'Native',
+          en: 'Logo Design',
+          id_ID: 'Logo Design',
         },
       },
       content: {
-        en: '.',
-        id_ID: '.',
+        en: 'Submission for Karnganyar 106 Anniversary.',
+        id_ID: 'Submisi untuk Lomba Logo Hari Jadi 106.',
       },
       desc: {
           en: 'View Project',

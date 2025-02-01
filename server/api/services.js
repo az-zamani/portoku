@@ -14,33 +14,34 @@ export default defineEventHandler(() => {
     },
     {
       id: 2,
-      title: 'Vue',
+      title: 'Graphic Design',
       description: {
-        en: 'I use Vue, a modern JavaScript and Typescript framework, while making dynamic and static websites and applications.',
-        id_ID: 'Terkadang saya juga menggunakan Vue, framework JavaScript dan Typescript sumber terbuka modern, ketika membuat website maupun aplikasi.',
-      },
-      icon: 'devicon:vuejs',
-      image: null,
-    },
-    {
-      id: 3,
-      title: 'Photoshop',
-      description: {
-        en: 'I am accustomed to using Photoshop for image manipulation and other graphic needs.',
-        id_ID: 'Saya Terbiasa Mengoperasikan Photoshop Untuk Manipulasi Gambar dan Kebutuhan Grafis Lain.',
+        en: 'I have experience in operating graphic programs such as Photoshop, Corel Draw, and Adobe Illustrator.',
+        id_ID: 'Saya Berpengalaman dalam mengoperasikan Program Grafis Seperti Photoshop, Corel Draw, Adobe Illustrator.',
       },
       icon: 'devicon:photoshop',
       image: null,
     },
-    {
-      id: 4,
-      title: 'Python',
-      description: {
-        en: 'In Cybersecurity, I use Python, SQL, Java/JavaScript, C++, etc. But Python is the language I use more often.',
-        id_ID: 'Dalam bidang Keamanan Siber, saya menggunakan Python, SQL, Java/JavaScript, C++, dll. Tapi Python adalah bahasa yang lebih sering saya gunakan.',
-      },
-      icon: 'devicon:python',
-      image: null,
-    },
+    // {
+    //   id: 3,
+    //   title: 'Vue',
+    //   description: {
+    //     en: 'I use Vue, a modern JavaScript and Typescript framework, while making dynamic and static websites and applications.',
+    //     id_ID: 'Terkadang saya juga menggunakan Vue, framework JavaScript dan Typescript sumber terbuka modern, ketika membuat website maupun aplikasi.',
+    //   },
+    //   icon: 'devicon:vuejs',
+    //   image: null,
+    // },
+
+    // {
+    //   id: 4,
+    //   title: 'Python',
+    //   description: {
+    //     en: 'In Cybersecurity, I use Python, SQL, Java/JavaScript, C++, etc. But Python is the language I use more often.',
+    //     id_ID: 'Dalam bidang Keamanan Siber, saya menggunakan Python, SQL, Java/JavaScript, C++, dll. Tapi Python adalah bahasa yang lebih sering saya gunakan.',
+    //   },
+    //   icon: 'devicon:python',
+    //   image: null,
+    // },
   ]
 })
